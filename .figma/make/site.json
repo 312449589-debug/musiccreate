@@ -1,1 +1,10 @@
-{}
+{
+  "description": "AI-powered music creation and practice platform guiding musicians to compose, refine, and perform personalized songs with tailored recommendations and progress tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
